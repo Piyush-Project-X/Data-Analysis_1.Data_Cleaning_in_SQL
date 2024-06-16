@@ -1,4 +1,6 @@
 #--Exploratory Data Analysis (EDA) on Clean Data
+#--Ensuring data quality was paramount throughout the project. Post-cleaning, I conducted a thorough validation to ensure the dataset was devoid of 
+#--duplicates and unnecessary entries, thereby maintaining the integrity of the analysis results. 
 
 -- Select all records from 'layoffs_staging2'
 select * from layoffs_staging2;
